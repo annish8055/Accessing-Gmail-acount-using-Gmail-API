@@ -6,8 +6,11 @@ Python
 
 # USeful Files
 Services/mail_tiaging
+
 Services/send_mail
+
 These two files are being used to read and write the mail from Gmail
+
 Services/dispute_processor
 
 # Quick start guide from Google
